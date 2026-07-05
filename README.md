@@ -1,16 +1,154 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**theAXdev/theAXDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,40:1A3A8F,100:1DB954&height=220&section=header&text=Jacob%20O.&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Data%20Engineer%20%E2%80%A2%20Analytics%20Engineer%20%E2%80%A2%20ML%20Engineer&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=1DB954&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Excel+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+dbt+%7C+ML;Building+the+AXdev+analytics+portfolio+%F0%9F%9A%80;Open+to+UK+data+%26+analytics+engineering+roles+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-UK%20Roles-1DB954?style=for-the-badge&logo=google-maps&logoColor=white"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `{ Jacob O. }` — also known as **dev Tobs** | **AXdev**
+
+</div>
+
+```python
+profile = {
+    "name"        :  "Jacob O.  |  dev Tobs  |  AXdev",
+    "based_in"    :  "United Kingdom 🇬🇧",
+    "expertise"   :  ["Data Engineering", "Analytics Engineering", "Data Science", "ML"],
+    "currently"   :  "Building AXdev — a multi-niche analytics portfolio",
+    "portfolio"   :  ["Health Intelligence", "Commercial Analytics",
+                      "Workforce Intelligence", "Digital Media Analytics"],
+    "open_to"     :  "UK Data & Analytics Engineering opportunities 🚀",
+    "content"     :  "dev Tobs — analytics content on LinkedIn, TikTok & Instagram",
+    "philosophy"  :  "Data is the new oil. Analytics engineering is the refinery.",
+}
+```
+
+<br/>
+
+I am a data-centric professional working at the intersection of **data engineering**, **analytics engineering**, **machine learning**, and **business intelligence**. I design and deploy end-to-end data solutions — from raw data pipelines in SQL and Python, through star schema data warehouses, to interactive Power BI and Excel dashboards that drive real strategic decisions.
+
+My **AXdev Analytics Portfolio** is a growing collection of production-grade analytics projects — each with a full technical report, interactive dashboard, and structured GitHub documentation — spanning healthcare, commercial, workforce, and digital media analytics.
+
+As **dev Tobs**, I create data and analytics engineering content across LinkedIn, TikTok, and Instagram — making complex data concepts accessible to the next generation of analysts and engineers.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📊 Analytics & Business Intelligence
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🐍 Programming & Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### ⚙️ Data Engineering & Tooling
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCS](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 📂 AXdev Analytics Portfolio
+
+> End-to-end analytics projects built to job-application standard — each with a full technical report, interactive dashboard, and structured GitHub documentation.
+
+<div align="center">
+
+| # | Project | Niche | Tools | Status |
+|:---:|---|:---:|:---:|:---:|
+| 🫁 **01** | [**Health Intelligence — Lung Cancer Diagnosis & Risk Stratification**](https://github.com/YOUR_USERNAME/Health-Analytics-Lung-Cancer-Diagnosis-and-Risk-Stratification) | Healthcare | Power BI · DAX | ✅ Live |
+| 🍕 **02** | [**Commercial Analytics — Product Performance & Revenue Optimization**](https://github.com/YOUR_USERNAME/Commercial-Analytics-Product-Performance-and-Revenue-Optimization) | Food & Beverage | PostgreSQL · Power BI · SQL | ✅ Live |
+| 🧠 **03** | [**Workforce Intelligence — Mental Health, Productivity & Remote Work**](https://github.com/YOUR_USERNAME/Workforce-Intelligence-Mental-Health-Productivity-and-Remote-Work-Dynamics) | People Analytics | Excel · Power BI · DAX | ✅ Live |
+| 🎵 **04** | [**Digital Media Analytics — Spotify Streaming Trends 2010–2019**](https://github.com/YOUR_USERNAME/Digital-Media-Analytics-Spotify-Streaming-Trends-2010-2019) | Music & Entertainment | Excel · Pivot Tables | ✅ Live |
+| 🛒 **05** | **Retail Analytics — Income & Customer Insights** | Retail | Power BI | 🔄 In Progress |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1B4B&title_color=1DB954&icon_color=1DB954&text_color=ffffff&border_radius=12"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=1DB954&text_color=ffffff&border_radius=12"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1B4B&ring=1DB954&fire=2E5FC2&currStreakLabel=1DB954&border_radius=12"/>
+
+</div>
+
+---
+
+## 🏆 Certifications & Memberships
+
+<div align="center">
+
+![CDSP](https://img.shields.io/badge/Certified_Data_Science_Professional-CDSP-0D1B4B?style=for-the-badge&logo=databricks&logoColor=1DB954)
+&nbsp;
+![BCS](https://img.shields.io/badge/British_Computer_Society-Member-1A3A8F?style=for-the-badge&logo=academia&logoColor=white)
+&nbsp;
+![DSS](https://img.shields.io/badge/Data_Science_Society-Member-1DB954?style=for-the-badge&logo=bookstack&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-hi.olujacob%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi.olujacob@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,50:1A3A8F,100:0D1B4B&height=130&section=footer&animation=fadeIn"/>
+
+**`"Data is the new oil — analytics engineering is the refinery."`**
+
+*Jacob O. · dev Tobs · AXdev Analytics Portfolio*
+
+*Open to UK Data & Analytics Engineering Opportunities 🇬🇧*
+
+</div>
