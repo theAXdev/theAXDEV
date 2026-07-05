@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## `{ Jacob O. }` — also known as **dev Tobs** | **AXdev**
+## `{ Jacob O. }`
 
 </div>
 
