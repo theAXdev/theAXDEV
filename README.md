@@ -24,12 +24,9 @@
 
 ```python
 profile = {
-    "name"        :  "Jacob O.  |  dev Tobs  |  AXdev",
+    "name"        :  "Jacob O.,
     "based_in"    :  "United Kingdom 🇬🇧",
-    "expertise"   :  ["Data Engineering", "Analytics Engineering", "Data Science", "ML"],
-    "currently"   :  "Building AXdev — a multi-niche analytics portfolio",
-    "portfolio"   :  ["Health Intelligence", "Commercial Analytics",
-                      "Workforce Intelligence", "Digital Media Analytics"],
+    "expertise"   :  [ "Data Analytics ","Data Engineering", "Analytics Engineering", "Data Science", "ML"],
     "open_to"     :  "UK Data & Analytics Engineering opportunities 🚀",
     "content"     :  "dev Tobs — analytics content on LinkedIn, TikTok & Instagram",
     "philosophy"  :  "Data is the new oil. Analytics engineering is the refinery.",
@@ -83,40 +80,6 @@ As **dev Tobs**, I create data and analytics engineering content across LinkedIn
 
 ---
 
-## 📂 AXdev Analytics Portfolio
-
-> End-to-end analytics projects built to job-application standard — each with a full technical report, interactive dashboard, and structured GitHub documentation.
-
-<div align="center">
-
-| # | Project | Niche | Tools | Status |
-|:---:|---|:---:|:---:|:---:|
-| 🫁 **01** | [**Health Intelligence — Lung Cancer Diagnosis & Risk Stratification**](https://github.com/YOUR_USERNAME/Health-Analytics-Lung-Cancer-Diagnosis-and-Risk-Stratification) | Healthcare | Power BI · DAX | ✅ Live |
-| 🍕 **02** | [**Commercial Analytics — Product Performance & Revenue Optimization**](https://github.com/YOUR_USERNAME/Commercial-Analytics-Product-Performance-and-Revenue-Optimization) | Food & Beverage | PostgreSQL · Power BI · SQL | ✅ Live |
-| 🧠 **03** | [**Workforce Intelligence — Mental Health, Productivity & Remote Work**](https://github.com/YOUR_USERNAME/Workforce-Intelligence-Mental-Health-Productivity-and-Remote-Work-Dynamics) | People Analytics | Excel · Power BI · DAX | ✅ Live |
-| 🎵 **04** | [**Digital Media Analytics — Spotify Streaming Trends 2010–2019**](https://github.com/YOUR_USERNAME/Digital-Media-Analytics-Spotify-Streaming-Trends-2010-2019) | Music & Entertainment | Excel · Pivot Tables | ✅ Live |
-| 🛒 **05** | **Retail Analytics — Income & Customer Insights** | Retail | Power BI | 🔄 In Progress |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1B4B&title_color=1DB954&icon_color=1DB954&text_color=ffffff&border_radius=12"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=1DB954&text_color=ffffff&border_radius=12"/>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1B4B&ring=1DB954&fire=2E5FC2&currStreakLabel=1DB954&border_radius=12"/>
-
-</div>
-
----
-
 ## 🏆 Certifications & Memberships
 
 <div align="center">
@@ -145,10 +108,8 @@ As **dev Tobs**, I create data and analytics engineering content across LinkedIn
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,50:1A3A8F,100:0D1B4B&height=130&section=footer&animation=fadeIn"/>
 
-**`"Data is the new oil — analytics engineering is the refinery."`**
+*Jacob O. · Data Analytics ·Analytics Engineer*
 
-*Jacob O. · dev Tobs · AXdev Analytics Portfolio*
-
-*Open to UK Data & Analytics Engineering Opportunities 🇬🇧*
+*Open to Global  Data & Analytics Engineering Opportunities*
 
 </div>
