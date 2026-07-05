@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,40:1A3A8F,100:1DB954&height=220&section=header&text=Jacob%20O.&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=AX%20Engineering%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20ML%20Engineering&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=1DB954&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Excel+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+dbt+%7C+ML;Building+World+Class+Data+Decisions+%F0%9F%9A%80;Open+to+UK+data+%26+analytics+engineering+roles+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=1DB954&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Excel+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+dbt+%7C+ML;Building+World+Class+Data+Decisions+%F0%9F%9A%80;Open+to+Global+data+%26+analytics+engineering+roles+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
 </a>
 
 <br/><br/> 
