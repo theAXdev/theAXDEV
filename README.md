@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=1DB954&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Excel+%7C+Power+BI+%7C+SQL+%7C+Python+%7C+dbt+%7C+ML;Building+the+AXdev+analytics+portfolio+%F0%9F%9A%80;Open+to+UK+data+%26+analytics+engineering+roles+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/><br/> 
 
 <img src="https://img.shields.io/badge/Open%20To%20Work-Global%20Roles-1DB954?style=for-the-badge&logo=google-maps&logoColor=white"/>
 
