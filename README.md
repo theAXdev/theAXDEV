@@ -27,9 +27,7 @@ profile = {
     "name"        :  "Jacob O.,
     "based_in"    :  "United Kingdom 🇬🇧",
     "expertise"   :  [ "Data Analytics ","Data Engineering", "Analytics Engineering", "Data Science", "ML"],
-    "open_to"     :  "UK Data & Analytics Engineering opportunities 🚀",
-    "content"     :  "dev Tobs — analytics content on LinkedIn, TikTok & Instagram",
-    "philosophy"  :  "Data is the new oil. Analytics engineering is the refinery.",
+    "open_to"     :  "Global Data & Analytics Engineering opportunities 🚀",
 }
 ```
 
