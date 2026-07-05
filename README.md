@@ -35,10 +35,6 @@ profile = {
 
 I am a data-centric professional working at the intersection of **data engineering**, **analytics engineering**, **machine learning**, and **business intelligence**. I design and deploy end-to-end data solutions — from raw data pipelines in SQL and Python, through star schema data warehouses, to interactive Power BI and Excel dashboards that drive real strategic decisions.
 
-My **AXdev Analytics Portfolio** is a growing collection of production-grade analytics projects — each with a full technical report, interactive dashboard, and structured GitHub documentation — spanning healthcare, commercial, workforce, and digital media analytics.
-
-As **dev Tobs**, I create data and analytics engineering content across LinkedIn, TikTok, and Instagram — making complex data concepts accessible to the next generation of analysts and engineers.
-
 ---
 
 ## 🛠️ Tech Stack
