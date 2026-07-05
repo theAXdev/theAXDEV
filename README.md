@@ -102,7 +102,7 @@ I am a data-centric professional working at the intersection of **data engineeri
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,50:1A3A8F,100:0D1B4B&height=130&section=footer&animation=fadeIn"/>
 
-*Jacob O. · Data Analytics ·Analytics Engineer*
+*Jacob O. · Data Analytics ·AX (Analytics) Engineering*
 
 *Open to Global  Data & Analytics Engineering Opportunities*
 
